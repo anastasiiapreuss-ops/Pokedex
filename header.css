@@ -1,0 +1,24 @@
+.header_style {
+    background-image: linear-gradient(to top, rgb(13 4 38), rgb(143 36 63));
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.25rem;
+}
+.header_left{
+    display: flex;
+    align-items: center;
+    gap: 0.63rem;
+}
+.header_left h1{
+    font-size: 1.4rem;
+}
+.header_left img{
+    width: 3.2rem;
+    height: 3.2rem;
+}
+input{
+    border: rgb(255, 255, 255) 0.2rem solid;
+    border-radius: 0.3rem;
+}

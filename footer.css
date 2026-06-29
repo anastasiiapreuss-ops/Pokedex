@@ -1,0 +1,35 @@
+.footer_style {
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgb(13 4 38), rgb(143 36 63));
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.25rem;
+    
+}
+
+.da_icon {
+    width: 2.13rem;
+    height: 2.13rem;
+}
+
+.da_style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.31rem;
+    font-size: 1rem;
+}
+
+.copy_icon {
+    width: 0.81rem;
+    height: 0.81rem;
+}
+
+.p_style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.31rem;
+}
